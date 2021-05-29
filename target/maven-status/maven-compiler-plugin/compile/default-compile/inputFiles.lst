@@ -1,0 +1,13 @@
+/Users/ward/Git/BungeeStaffChat/src/main/java/be/woutdev/bungeestaffchat/commands/Sc.java
+/Users/ward/Git/BungeeStaffChat/src/main/java/be/woutdev/bungeestaffchat/commands/ScSpy.java
+/Users/ward/Git/BungeeStaffChat/src/main/java/be/woutdev/bungeestaffchat/listeners/PlayerListener.java
+/Users/ward/Git/BungeeStaffChat/src/main/java/be/woutdev/bungeestaffchat/player/ScPlayerManager.java
+/Users/ward/Git/BungeeStaffChat/src/main/java/be/woutdev/bungeestaffchat/commands/ScInfo.java
+/Users/ward/Git/BungeeStaffChat/src/main/java/be/woutdev/bungeestaffchat/commands/ScReply.java
+/Users/ward/Git/BungeeStaffChat/src/main/java/be/woutdev/bungeestaffchat/player/ScPlayer.java
+/Users/ward/Git/BungeeStaffChat/src/main/java/be/woutdev/bungeestaffchat/BungeeStaffChat.java
+/Users/ward/Git/BungeeStaffChat/src/main/java/be/woutdev/bungeestaffchat/commands/ScDisable.java
+/Users/ward/Git/BungeeStaffChat/src/main/java/be/woutdev/bungeestaffchat/commands/ScReload.java
+/Users/ward/Git/BungeeStaffChat/src/main/java/be/woutdev/bungeestaffchat/commands/ScPriority.java
+/Users/ward/Git/BungeeStaffChat/src/main/java/be/woutdev/bungeestaffchat/commands/ScToggle.java
+/Users/ward/Git/BungeeStaffChat/src/main/java/be/woutdev/bungeestaffchat/commands/ScMsg.java
